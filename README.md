@@ -1,3 +1,3 @@
-## E-Commerce App
+## Peel'ems App
 
 - [Project Link]() #Needs to be updated
